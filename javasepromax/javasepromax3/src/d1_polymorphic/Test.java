@@ -12,7 +12,7 @@ public class Test {
 
         Animal a1=new Tortoise();
         a1.run(); //方法编译看左边，运行看右边
-        System.out.println(a1.name); //变量编译看左边，运行看辨别
+        System.out.println(a1.name); //变量编译看左边，运行看左边
 
     }
 }

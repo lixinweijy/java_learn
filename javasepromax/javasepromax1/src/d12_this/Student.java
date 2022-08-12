@@ -6,7 +6,7 @@ public class Student {
 
     public Student() {
     }
-    //如果学生不填写学习，默认这个对象的学校是黑马
+    //如果学生不填写学校，默认这个对象的学校是华中农业大学
     public Student(String name) {
         /**
          * 通过this()去调用本类的其他构造器，本类其他的构造器会通过super去手动调用父类的构造器，最终还是会调用父类构造器的

@@ -1,6 +1,7 @@
 package d2_polymorphic_advantage;
 
 public class Dog extends Animal{
+    @Override
     public void run(){
         System.out.println("狗跑的很快");
     }
