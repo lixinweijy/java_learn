@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/api_lambda_app/api_lambda_app.iml" filepath="$PROJECT_DIR$/api_lambda_app/api_lambda_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/collection-app/collection-app.iml" filepath="$PROJECT_DIR$/collection-app/collection-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/file_iostream/file_iostream.iml" filepath="$PROJECT_DIR$/file_iostream/file_iostream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file_iostream2/file_iostream2.iml" filepath="$PROJECT_DIR$/file_iostream2/file_iostream2.iml" />
       <module fileurl="file://$PROJECT_DIR$/javasepromax.iml" filepath="$PROJECT_DIR$/javasepromax.iml" />
       <module fileurl="file://$PROJECT_DIR$/javasepromax1/javasepromax1.iml" filepath="$PROJECT_DIR$/javasepromax1/javasepromax1.iml" />
       <module fileurl="file://$PROJECT_DIR$/javasepromax2/javasepromax2.iml" filepath="$PROJECT_DIR$/javasepromax2/javasepromax2.iml" />
