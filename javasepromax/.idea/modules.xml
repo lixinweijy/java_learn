@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/javasepromax3/javasepromax3.iml" filepath="$PROJECT_DIR$/javasepromax3/javasepromax3.iml" />
       <module fileurl="file://$PROJECT_DIR$/logback-app/logback-app.iml" filepath="$PROJECT_DIR$/logback-app/logback-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/movie-buy-app/movie-buy-app.iml" filepath="$PROJECT_DIR$/movie-buy-app/movie-buy-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net_app/net_app.iml" filepath="$PROJECT_DIR$/net_app/net_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/set/set.iml" filepath="$PROJECT_DIR$/set/set.iml" />
       <module fileurl="file://$PROJECT_DIR$/stream-exception-log-app/stream-exception-log-app.iml" filepath="$PROJECT_DIR$/stream-exception-log-app/stream-exception-log-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread_app/thread_app.iml" filepath="$PROJECT_DIR$/thread_app/thread_app.iml" />
