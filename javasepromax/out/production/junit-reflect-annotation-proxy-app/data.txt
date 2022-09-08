@@ -1,0 +1,6 @@
+==============Student================
+name=李新伟
+sex=男
+age=1000
+className=计科12106
+hobby=敲代码
