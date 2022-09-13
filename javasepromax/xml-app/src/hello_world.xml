@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<student><!--只能有一个根标签 -->
+    <name>李新伟</name>
+    <sex>男</sex>
+    <hobby>敲代码</hobby>
+
+</student>
